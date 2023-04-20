@@ -71,9 +71,9 @@ html {
     top: 0;
     width: 4.5em;
   }
-  #close{
+  #close {
     color:red;
-    cursor: pointer;
+    cursor: pointer!important;
   }
   .details-modal .details-modal-close svg {
     display: block;
