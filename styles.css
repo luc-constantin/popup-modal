@@ -73,7 +73,7 @@ html {
   }
   #close {
     color:red;
-    cursor: pointer!important;
+    cursor: pointer;
   }
   .details-modal .details-modal-close svg {
     display: block;
