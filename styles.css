@@ -74,6 +74,7 @@ html {
   #close {
     color:red;
     cursor: pointer;
+    pointer-events: all;
   }
   .details-modal .details-modal-close svg {
     display: block;
